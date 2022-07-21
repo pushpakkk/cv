@@ -1,0 +1,13 @@
+.title {
+    background: #f2f2f3;
+    padding: 5px;
+    border: 6px;
+    border-radius: 5px;
+    background-color: rgba(160, 249, 249, 0.37);
+}
+img {
+    border-radius: 100px;
+}
+.student {
+    text-align: center;
+}
